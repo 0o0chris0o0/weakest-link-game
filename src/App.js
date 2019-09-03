@@ -212,8 +212,8 @@ const WeakestLink = Game({
 const Main = Client({
   game: WeakestLink,
   numPlayers: 3,
-  board: Board
-  // debug: false
+  board: Board,
+  debug: process.env.NODE_ENV !== 'production'
 });
 
 export default Main;
