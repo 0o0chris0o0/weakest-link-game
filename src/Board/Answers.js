@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './answers.scss';
+import styles from './answers.module.scss';
 
 export default class Answers extends React.Component {
   constructor(props) {

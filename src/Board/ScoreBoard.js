@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 
-import styles from './scoreboard.scss';
+import styles from './scoreboard.module.scss';
 
 export default function ScoreBoard({ scores, sequence, bank }) {
   const scoreRange = scores.slice(0).reverse();

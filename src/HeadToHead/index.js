@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { cloneDeep as _cloneDeep } from 'lodash';
 import classNames from 'classnames';
 
-import styles from './headToHead.scss';
+import styles from './headToHead.module.scss';
 import exampleResponse from '../response.json';
 
 import Question from '../Board/Question';

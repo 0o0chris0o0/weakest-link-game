@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './roundStarter.scss';
+import styles from './roundStarter.module.scss';
 
 export default class RoundStarter extends React.Component {
   constructor(props) {

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './question.scss';
+import styles from './question.module.scss';
 
 import Answers from './Answers';
 

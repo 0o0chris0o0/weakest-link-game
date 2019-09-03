@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { cloneDeep as _cloneDeep } from 'lodash';
 import classNames from 'classnames';
 
-import styles from './otherPlayers.scss';
+import styles from './otherPlayers.module.scss';
 
 export default class OtherPlayers extends React.Component {
   constructor(props) {

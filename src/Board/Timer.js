@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './timer.scss';
+import styles from './timer.module.scss';
 
 export default function Timer({ time }) {
   const minutes = Math.floor(time / 60);

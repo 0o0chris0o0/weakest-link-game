@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 // import axios from 'axios';
 import { cloneDeep as _cloneDeep } from 'lodash';
 
-import styles from './board.scss';
+import styles from './board.module.scss';
 import exampleResponse from '../response.json';
 
 import Question from './Question';
