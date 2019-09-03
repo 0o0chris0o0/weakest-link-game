@@ -13,8 +13,6 @@ import Timer from './Timer';
 import RoundStarter from './RoundStarter';
 import HeadToHead from '../HeadToHead';
 
-console.log(styles)
-
 export default class Board extends React.Component {
   constructor(props) {
     super(props);
@@ -44,13 +42,13 @@ export default class Board extends React.Component {
     const { voteResult, players, topPlayer } = this.props.G;
     const { phase } = this.props.ctx;
     if ((phase === 'elimination' || phase === 'final decision') && voteResult.result === 'winner') {
-      this.props.game.endPhase();
+      this.props.events.endPhase();
     }
     if (phase === 'elimination' && topPlayer !== null) {
-      this.props.game.endPhase();
+      this.props.events.endPhase();
     }
     if (phase === 'head to head' && players.length !== 2) {
-      this.props.game.endPhase();
+      this.props.events.endPhase();
     }
   }
 
@@ -75,7 +73,7 @@ export default class Board extends React.Component {
     } else {
       this.props.moves.resetSequence();
     }
-    this.props.game.endTurn();
+    this.props.events.endTurn();
   }
 
   toggleBank() {
@@ -95,7 +93,7 @@ export default class Board extends React.Component {
   }
 
   startRound() {
-    this.props.game.endPhase();
+    this.props.events.endPhase();
     this.timer = setInterval(this.updateTimer, 1000);
     this.setState({
       intervalId: this.timer
@@ -107,7 +105,7 @@ export default class Board extends React.Component {
     this.setState({
       timer: 6 + 10 * players.length
     });
-    this.props.game.endPhase();
+    this.props.events.endPhase();
   }
 
   updateTimer() {
@@ -118,7 +116,7 @@ export default class Board extends React.Component {
     } else {
       clearInterval(this.timer);
       // Game round has ended
-      this.props.game.endPhase();
+      this.props.events.endPhase();
     }
   }
 
@@ -127,10 +125,10 @@ export default class Board extends React.Component {
 
     if (phase === 'final decision') {
       this.props.moves.finalDecision(playerId);
-      this.props.game.endPhase();
+      this.props.events.endPhase();
     } else {
       this.props.moves.castVote(playerId);
-      this.props.game.endTurn();
+      this.props.events.endTurn();
     }
   }
 
@@ -192,7 +190,7 @@ export default class Board extends React.Component {
             <HeadToHead
               moves={this.props.moves}
               G={this.props.G}
-              game={this.props.game}
+              events={this.props.events}
               turn={turn}
               currentPlayer={currentPlayer}
             />

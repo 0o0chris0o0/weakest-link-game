@@ -18,7 +18,7 @@ const WeakestLink = Game({
   setup: numPlayers => ({
     players: generatePlayers(numPlayers),
     round: 0,
-    starterTime: 0 + 1 * numPlayers,
+    starterTime: 2 * numPlayers,
     bank: 0,
     scores: ['20', '50', '100', '200', '300', '450', '600', '800', '1000'],
     sequence: null,

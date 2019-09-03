@@ -36,7 +36,7 @@ export default class HeadToHead extends React.Component {
 
   answerQuestion(isCorrect) {
     this.props.moves.answerHeadToHead(isCorrect);
-    this.props.game.endTurn();
+    this.props.events.endTurn();
   }
 
   render() {
