@@ -1,0 +1,40 @@
+:local {
+  .question {
+    border-bottom: 1px solid black;
+    padding-bottom: 40px;
+    margin-bottom: 40px; 
+  }
+
+  .circle {
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 50%;
+    background: black;
+    border: 3px solid white;
+    display: inline-block;
+  }
+
+  .correct {
+    background: green;
+  }
+
+  .incorrect {
+    background: red;
+  }
+
+  .player {
+    background: linear-gradient(-20deg, #464646, #161616);
+
+    margin: 20px 0;
+    border: 2px solid black;
+    border-radius: 10px;
+  }
+
+  .activePlayer {
+    box-shadow: 0 0 10px 3px green;
+    transform: scale(1.02);
+    transition: all 0.4s ease-in-out;
+  }
+
+}

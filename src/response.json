@@ -1,0 +1,389 @@
+{
+  "data": {
+    "response_code": 0,
+    "results": [
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "Moldova",
+          "Czech Republic",
+          "Denmark"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which company did Valve cooperate with in the creation of the Vive?",
+        "correct_answer": "HTC",
+        "incorrect_answers": [
+          "Oculus",
+          "Google",
+          "Razer"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What&#039;s the name of Batman&#039;s  parents?",
+        "correct_answer": "Thomas &amp; Martha",
+        "incorrect_answers": [
+          "Joey &amp; Jackie",
+          "Jason &amp; Sarah",
+          "Todd &amp; Mira"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+          "The Dream Team",
+          "The Bushwhackers",
+          "The British Bulldogs"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+        "correct_answer": "Mike",
+        "incorrect_answers": [
+          "Matthew",
+          "Mark",
+          "Max"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the first book of the Old Testament?",
+        "correct_answer": "Genesis",
+        "incorrect_answers": [
+          "Exodus",
+          "Leviticus",
+          "Numbers"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does a funambulist walk on?",
+        "correct_answer": "A Tight Rope",
+        "incorrect_answers": [
+          "Broken Glass",
+          "Balls",
+          "The Moon"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How would one say goodbye in Spanish?",
+        "correct_answer": "Adi&oacute;s",
+        "incorrect_answers": [
+          " Hola",
+          "Au Revoir",
+          "Salir"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+          "Libra",
+          "Virgo",
+          "Sagittarius"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "correct_answer": "19",
+        "incorrect_answers": [
+          "20",
+          "12",
+          "15"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+        "correct_answer": "Subscriber",
+        "incorrect_answers": [
+          "Single",
+          "Secure",
+          "Solid"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+        "correct_answer": "Tango",
+        "incorrect_answers": [
+          "Target",
+          "Taxi",
+          "Turkey"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is &quot;dabbing&quot;?",
+        "correct_answer": "A dance",
+        "incorrect_answers": [
+          "A medical procedure",
+          "A sport",
+          "A language"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of the Jewish New Year?",
+        "correct_answer": "Rosh Hashanah",
+        "incorrect_answers": [
+          "Elul",
+          "New Year",
+          "Succoss"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "correct_answer": "Rock Band",
+        "incorrect_answers": [
+          "Meat Beat Mania",
+          "Guitar Hero Live",
+          "Dance Dance Revolution"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the nickname of the US state of California?",
+        "correct_answer": "Golden State",
+        "incorrect_answers": [
+          "Sunshine State",
+          "Bay State",
+          "Treasure State"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "correct_answer": "Wax sculptures",
+        "incorrect_answers": [
+          "Designer clothing",
+          "Unreleased film reels",
+          "Vintage cars"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+          "Yellow",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+          "George Washington",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What do the letters in the GMT time zone stand for?",
+        "correct_answer": "Greenwich Mean Time",
+        "incorrect_answers": [
+          "Global Meridian Time",
+          "General Median Time",
+          "Glasgow Man Time"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which one of these is not a typical European sword design?",
+        "correct_answer": "Scimitar",
+        "incorrect_answers": [
+          "Falchion",
+          "Ulfberht",
+          "Flamberge"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+        "correct_answer": "D. G. Yuengling and Son, Inc",
+        "incorrect_answers": [
+          "Anheuser Busch",
+          "Boston Beer Company",
+          "Miller Coors"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+        "correct_answer": "Truth",
+        "incorrect_answers": [
+          "Answer",
+          "Cause",
+          "Source"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Poland in Polish?",
+        "correct_answer": "Polska",
+        "incorrect_answers": [
+          "Pupcia",
+          "Polszka",
+          "P&oacute;land"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+          "Digest",
+          "Look",
+          "Read"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "correct_answer": "McDonald&#039;s",
+        "incorrect_answers": [
+          "Whataburger",
+          "Burger King",
+          "Sonic"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What color is the &quot;Ex&quot; in FedEx Ground?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Light Blue",
+          "Orange"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first ever London Underground line to be built?",
+        "correct_answer": "Metropolitan Line",
+        "incorrect_answers": [
+          "Circle Line",
+          "Bakerloo Line",
+          "Victoria Line"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How tall is the Burj Khalifa?",
+        "correct_answer": "2,722 ft",
+        "incorrect_answers": [
+          "2,717 ft",
+          "2,546 ft",
+          "3,024 ft"
+        ]
+      },
+      {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+          "Theodore Roosevelt",
+          "Abraham Lincoln",
+          "Thomas Jefferson"
+        ]
+      }
+    ]
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "pragma": "no-cache",
+    "content-type": "application/json",
+    "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT"
+  },
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "method": "get",
+    "url": "https://opentdb.com/api.php?amount=30&category=9&difficulty=easy&type=multiple"
+  },
+  "request": {}
+}
