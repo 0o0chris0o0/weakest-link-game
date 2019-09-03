@@ -1,0 +1,38 @@
+:local {
+  .otherPlayers {
+    margin: 40px 0;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 40px 0;
+  }
+
+  .playerPanel {
+    background: black;
+    display: inline-block;
+    padding: 20px 25px 24px;
+    border-radius: 50%;
+    font-size: 26px;
+    border: 3px solid silver;
+    box-shadow: 3px 2px 5px rgba(black, 0.5);
+    color: white;
+    outline: none;
+    width: 150px;
+  }
+
+  .active {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px 5px rgba(green, 1);
+  }
+
+  .inactive {
+    opacity: 0.3;
+    cursor: default;
+  }
+
+  .decider {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px 5px rgba(green, 1);
+    cursor: default;
+  }
+
+}
