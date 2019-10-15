@@ -18,7 +18,7 @@ const WeakestLink = Game({
   setup: numPlayers => ({
     players: generatePlayers(numPlayers),
     round: 0,
-    starterTime: 2 * numPlayers,
+    starterTime: 30 * numPlayers,
     bank: 0,
     scores: ['20', '50', '100', '200', '300', '450', '600', '800', '1000'],
     sequence: null,
@@ -211,7 +211,7 @@ const WeakestLink = Game({
 
 const Main = Client({
   game: WeakestLink,
-  numPlayers: 3,
+  numPlayers: 5,
   board: Board,
   debug: process.env.NODE_ENV !== 'production'
 });
